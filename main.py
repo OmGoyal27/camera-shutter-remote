@@ -1,7 +1,8 @@
 import ahk as autohotkey
+import playsound
 
 def shutter_button_pressed():
-    print("Shutter button pressed!")
+    playsound.playsound('shutter_sound.mp3')
 
 ahk = autohotkey.AHK()
 ahk.add_hotkey('Volume_Up', shutter_button_pressed)
