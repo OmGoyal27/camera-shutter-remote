@@ -67,7 +67,9 @@ You can customize the application by:
 
 ## Watch the full video here!
 
-<iframe width="1536" height="864" src="https://www.youtube.com/embed/uSjMHxiK0Zs" title="Make use of this Camera Remote Shutter." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/uSjMHxiK0Zs/0.jpg)](https://www.youtube.com/watch?v=uSjMHxiK0Zs)
+
+Click the image above or [watch on YouTube](https://www.youtube.com/watch?v=uSjMHxiK0Zs).
 
 ## License
 
