@@ -65,6 +65,10 @@ You can customize the application by:
 - **Hotkey not detected**: Ensure the application is running and has proper permissions
 - **Import errors**: Make sure all dependencies are installed via `pip install -r requirements.txt`
 
+## Watch the full video here!
+
+<iframe width="1536" height="864" src="https://www.youtube.com/embed/uSjMHxiK0Zs" title="Make use of this Camera Remote Shutter." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## License
 
 This project is open source under the MIT License.
